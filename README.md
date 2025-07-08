@@ -14,8 +14,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hi 👋, I'm Vedika Rathi</h1>
-<h3 align="center">Hi there! I'm a passionate software developer who loves turning ideas into scalable, high-impact software.</h3>
+<h1 align="center">Hi! I'm Vedika Rathi</h1>
+<h3 align="center"> I'm a passionate software developer who loves turning ideas into scalable, high-impact software.</h3>
 
 - 🌱 I’m currently learning **Sytem Design**
 
