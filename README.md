@@ -12,7 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vedraw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center">Hi 👋, I'm Vedika Rathi</h1>
 <h3 align="center">Hi there! I'm a passionate software developer who loves turning ideas into scalable, high-impact software.</h3>
